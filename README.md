@@ -27,9 +27,9 @@
 </ul>
 <h2>Note:</h2>
 <ul>
-  <li>The executable is not yet available.</li>
+  <li>The executable format is not yet available.</li>
   <li>This is not available in portable form.</li>
   <li>The search module is not complete (it will be uploaded shortly)</li>
-  
+  <li>The database structure and code will be uploaded shortly</li>
 </ul>
 <h2>Thank You</h2>
